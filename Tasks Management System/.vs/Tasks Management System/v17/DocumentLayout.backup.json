@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|c:\\users\\user\\desktop\\my projects\\tasks-management-system\\tasks management system\\screens\\frmedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|solutionrelative:screens\\frmedittask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|c:\\users\\user\\desktop\\my projects\\tasks-management-system\\tasks management system\\screens\\frmdailytodotasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|solutionrelative:screens\\frmdailytodotasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|c:\\users\\user\\desktop\\my projects\\tasks-management-system\\tasks management system\\screens\\frmtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|solutionrelative:screens\\frmtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|c:\\users\\user\\desktop\\my projects\\tasks-management-system\\tasks management system\\screens\\frmnewtaskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA5F69B6-3903-4AB2-8805-6AC04CF81ED2}|Tasks Management System.csproj|solutionrelative:screens\\frmnewtaskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEditTask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmEditTask.cs",
+              "RelativeDocumentMoniker": "Screens\\frmEditTask.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmEditTask.cs [Design]*",
+              "RelativeToolTip": "Screens\\frmEditTask.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:49:03.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDailyToDoTasks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmDailyToDoTasks.cs",
+              "RelativeDocumentMoniker": "Screens\\frmDailyToDoTasks.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmDailyToDoTasks.cs [Design]",
+              "RelativeToolTip": "Screens\\frmDailyToDoTasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:49:02.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTimer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmTimer.cs",
+              "RelativeDocumentMoniker": "Screens\\frmTimer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmTimer.cs [Design]",
+              "RelativeToolTip": "Screens\\frmTimer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:49:00.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNewTaskInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmNewTaskInfo.cs",
+              "RelativeDocumentMoniker": "Screens\\frmNewTaskInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\My Projects\\Tasks-Management-System\\Tasks Management System\\Screens\\frmNewTaskInfo.cs [Design]*",
+              "RelativeToolTip": "Screens\\frmNewTaskInfo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:48:26.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
